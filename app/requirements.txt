@@ -1,0 +1,8 @@
+fastapi[standard]
+boto3
+fastapi-cloudauth
+sentry_sdk
+httpx==0.28.1
+uvicorn
+pydantic
+pydantic-settings
